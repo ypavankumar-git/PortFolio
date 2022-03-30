@@ -1,0 +1,47 @@
+.meetMeContainer {
+  display: flex;
+  height: 10%;
+  width: 100%;
+  flex-direction: row;
+  align-items: center;
+  margin-top: 1vw;
+}
+
+.curvyLine {
+  height: 2.8vw;
+  width: 2.7vw;
+}
+
+.meetBorderBox {
+  height: 80%;
+  width: 31%;
+  margin-left: 1.5vw;
+  padding: 0.1vw;
+  border-radius: 16px 16px 16px 16px;
+  background: linear-gradient(to right, rgb(250, 112, 134), rgb(1, 123, 225));
+}
+
+.meetBox {
+  height: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  background-color: #fff;
+  border-radius: 16px 16px 16px 16px;
+}
+
+.meetText {
+  margin-left: 23%;
+  font-size: 1vw;
+  font-weight: 400;
+  background: linear-gradient(to right, rgb(240, 54, 110), rgb(38, 87, 235));
+  background-clip: text;
+  color: transparent;
+}
+
+.arrow {
+  height: 100%;
+  width: 10%;
+  margin-left: 2%;
+  margin-top: 1.5%;
+}

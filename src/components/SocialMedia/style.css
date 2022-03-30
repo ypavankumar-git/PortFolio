@@ -1,0 +1,6 @@
+.socialMediaContainer {
+  width: 25%;
+  margin-top: 10px;
+  background: linear-gradient(to right, rgba(254, 84, 111, 1), rgba(0, 123, 255, 1));
+  color: transparent;
+}
