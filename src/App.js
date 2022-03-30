@@ -1,6 +1,7 @@
 // import logo from './logo.svg';
 import './App.css';
 // import SocialMedia from "./components/SocialMedia";
+
 import Title from "./components/Title";
 import Backgrounds from "./components/BackgroundWorks";
 import RightBox from "./components/RightBox";

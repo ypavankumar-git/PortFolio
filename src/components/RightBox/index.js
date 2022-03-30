@@ -18,7 +18,7 @@ const RightBox = () => {
            
               <img src={photo} alt="OOPS" className="photo"/>
 
-            </div>
+        </div>
 
             <CurvyCircle className="curvyCircle"/>
 
